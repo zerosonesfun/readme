@@ -62,4 +62,4 @@ Alongside building world-class talent strategies, I’ve been weaving digital ex
 
 - [Personal Site](https://wilcosky.com)
 - [Upviber](https://upviber.com)
-- [Litterlayer](https://litterlayer.com)
+- [Litter Layer](https://litterlayer.com)
