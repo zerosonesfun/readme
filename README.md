@@ -5,7 +5,7 @@
  ▛▌▜ ▛▌▜ ▛▌▜ 
  █▌▟▖█▌▟▖█▌▟▖
             
-   Bridging People, Processes, and Pixels
+Bridging People and Pixels
 ```
 
 # About Me
